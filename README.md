@@ -48,15 +48,5 @@ Mi objetivo es integrarme en equipos de desarrollo ágiles, aportar en la fase d
 - 💼 LinkedIn: (www.linkedin.com/in/sebastian-gocht-guerrero-4398a3372)
 - 📧 Email: (sebastiangocht99@gmail.com)
 
----
-
-## 🗓️ Mantenimiento del perfil
-
-- 🟢 Agregar nuevos proyectos y ejercicios periódicamente.  
-- 📚 Mejorar el diseño de los repositorios: documentación clara, imágenes, GIFs si aplica.  
-- 🌐 Desplegar demos cuando sea posible (GitHub Pages, Netlify, Vercel).  
-- 🔄 Actualizar con mejoras o documentación extra para que el perfil no se vea “abandonado”.
-
----
 
 ✨ Gracias por pasar por mi perfil. Si te interesa colaborar o conversar sobre QA, ¡estoy abierto a ello!  
