@@ -16,9 +16,9 @@ Mi objetivo es integrarme en equipos de desarrollo ágiles, aportar en la fase d
 | Control de versiones | Git, GitHub                  |
 
 
-<h3 align="center">Un apasionado desarrollador frontend de la India</h3>
 
-<h3 align="left">Conéctate conmigo:</h3>
+
+
 <p align="left">
 </p>
 
