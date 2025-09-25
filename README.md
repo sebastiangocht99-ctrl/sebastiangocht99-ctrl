@@ -43,10 +43,10 @@ Mi objetivo es integrarme en equipos de desarrollo ágiles, aportar en la fase d
 
 ---
 
-## 🌐 Conectemos
+## 🌐 Contacto
 
-- 💼 LinkedIn: (coloca tu enlace cuando lo tengas)  
-- 📧 Email: tu_correo@example.com  
+- 💼 LinkedIn: www.linkedin.com/in/sebastian-gocht-guerrero-4398a3372
+- 📧 Email: sebastiangocht99@gmail.com
 
 ---
 
