@@ -15,6 +15,16 @@ Mi objetivo es integrarme en equipos de desarrollo ágiles, aportar en la fase d
 | Automatización (básico) | Selenium, JavaScript (básico) |
 | Control de versiones | Git, GitHub                  |
 
+
+<h3 align="center">Un apasionado desarrollador frontend de la India</h3>
+
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Lenguajes y herramientas:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" altura="40"/> </a> <a href="https://www.photoshop.com/es" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" altura="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="cartero" width="40" altura="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" ancho="40" alto="40"/> </a> </p>
+
 ---
 
 ## 📂 Proyectos destacables
