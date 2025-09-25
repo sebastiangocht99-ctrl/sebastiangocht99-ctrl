@@ -23,7 +23,7 @@ Mi objetivo es integrarme en equipos de desarrollo ágiles, aportar en la fase d
 - **Descripción:** Diseño de un conjunto de casos (positivos, negativos y de límites) para validar funcionalidades de una app web.  
 - **Qué aporta:** Permite verificar que la aplicación responda correctamente en distintos escenarios.  
 - **Cómo usar:** Descargar el archivo, revisar cada caso de prueba con sus pasos, datos y resultados esperados.  
-- 📎 [Ver repositorio](#)  
+- 📎 [Ver repositorio](https://github.com/sebastiangocht99-ctrl/Casos-de-prueba-en-Excel-Sprint-4)  
 
 ---
 
