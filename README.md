@@ -31,15 +31,15 @@ Mi objetivo es integrarme en equipos de desarrollo ágiles, aportar en la fase d
 - **Descripción:** Creación de reportes de incidencias con buena estructura, priorización y evidencia visual.  
 - **Qué aporta:** Facilita que los desarrolladores reproduzcan y corrijan los errores rápidamente.  
 - **Cómo usar:** Ver ejemplos de tickets con todos los campos (título, pasos, entorno, resultados, evidencias).  
-- 📎 [Ver repositorio](#)
+- 📎 [Ver repositorio](https://github.com/sebastiangocht99-ctrl/Registro-y-documentaci-n-de-bugs-en-Jira-Sprint-4)
 
 ---
 
-### 3. (Proyecto próximamente) Testing de API con Postman  
+### 3. ( próximamente) Testing de API con Postman  
 - **Descripción:** Conjunto de colecciones que validan endpoints REST con escenarios positivos y negativos.  
 - **Herramientas usadas:** Postman, JSON  
 - **Cómo usar:** Importar la colección en Postman y ejecutar las pruebas.  
-- 📎 [Ver repositorio](#)
+- 📎 [Ver repositorio](https://github.com/sebastiangocht99-ctrl/Testing-de-API-con-Postman)
 
 ---
 
